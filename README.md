@@ -1,6 +1,6 @@
 # sirlco-technical-test-data-structure
 
-Sirclo Technical Test - Data Structure
+Sirclo Technical Test - Data Structure.
 Created and initiated by @judahsuryaputra
 
 ## Running on Local
